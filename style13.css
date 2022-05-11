@@ -18,11 +18,11 @@ main{
 
 .continue a{
     position: relative;
-    top: 875px;
+    top: 515px;
     right: 25px;
     float: right;
     text-align: center;
-    font-size: 48px;
+    font-size: 36px;
     color: white;
     padding: 1px 30px 1px 1px;
 }

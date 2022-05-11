@@ -15,8 +15,8 @@
 .main img{  
     position: absolute;
     text-align: center;
-    font-size: 50px;
-    left: 22vh;
+    font-size: 32px;
+    left: 30vh;
     color: white;
     padding: 5px;
     
@@ -25,8 +25,7 @@
 .main p{
     position: relative;
     text-align: center;
-    top: 15px;
-    font-size: 50px;
+    font-size: 36px;
     color: white;
     padding: 1px 15px 1px 15px;
 }
@@ -37,7 +36,7 @@
 
 .continue a{
     position: relative;
-    top: 750px;
+    top: 400px;
     float: right;
     text-align: center;
     font-size: 48px;

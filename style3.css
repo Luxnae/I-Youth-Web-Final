@@ -5,6 +5,7 @@
 
 main{
     background-image: url("background/Background\ \(5\).png");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -17,11 +18,11 @@ main{
 
 .continue a{
     position: relative;
-    top: 875px;
+    top: 545px;
     right: 25px;
     float: right;
     text-align: center;
-    font-size: 48px;
+    font-size: 36px;
     color: white;
     padding: 1px 30px 1px 1px;
 }
