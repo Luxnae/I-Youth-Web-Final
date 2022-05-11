@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-image: url("background/Background\ \(18\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-weight: 400;
+}
+
+.continue a{
+    text-decoration: none;
+}
+
+.continue a{
+    position: relative;
+    top: 875px;
+    right: 25px;
+    float: right;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    padding: 1px 30px 1px 1px;
+}
